@@ -6,9 +6,9 @@ Introduce how to install Gerrit on Linux
 
 # Why do we need Gerrit?
 We should do "code review" before updating the remote branch with local commits. </br>
-It is similar to below. </br> </br>
-GitHub: pull requests </br>
-GitLab: merge requests </br>
+It is similar to PR or MR below. </br> </br>
+GitHub : Pull requests </br>
+GitLab : Merge requests </br>
 
 # Let us get started
 ... </br>
