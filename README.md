@@ -20,6 +20,8 @@ Download the "gerrit-x.x.x.war" from https://gerrit-releases.storage.googleapis.
 wget https://gerrit-releases.storage.googleapis.com/gerrit-3.6.2.war
 ```
 
+... </br>
+
 # References
 1. https://gerrit-review.googlesource.com/Documentation/linux-quickstart.html
 2. https://vocus.cc/article/60a48eecfd897800011a0bf0
