@@ -12,7 +12,13 @@ GitHub : Pull requests </br>
 GitLab : Merge requests </br>
 
 # Let us get started
-... </br>
+
+## Download Gerrit 
+Download the "gerrit-x.x.x.war" from https://gerrit-releases.storage.googleapis.com/index.html </br>
+
+```sh
+wget https://gerrit-releases.storage.googleapis.com/gerrit-3.6.2.war
+```
 
 # References
 1. https://gerrit-review.googlesource.com/Documentation/linux-quickstart.html
