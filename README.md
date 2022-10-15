@@ -1,12 +1,13 @@
 # DDK_Gerrit
-Introduce how to install Gerrit on Linux
+Introduce how to install Gerrit on Linux. </br>
 
 # What is Gerrit?
-... </br>
+Gerrit is a kind of code collaboration (code review) tool. </br>
 
 # Why do we need Gerrit?
 We should do "code review" before updating the remote branch with local commits. </br>
-It is similar to PR or MR below. </br> </br>
+It is similar to PR or MR below. </br> 
+</br>
 GitHub : Pull requests </br>
 GitLab : Merge requests </br>
 
