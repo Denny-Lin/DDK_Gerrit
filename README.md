@@ -44,7 +44,13 @@ $GERRIT_SITE/bin/gerrit.sh restart
 ```
 ![image](https://user-images.githubusercontent.com/67073582/198942637-c34bd40f-f6f6-49c1-91de-0fc0baf65fde.png)
 
-... </br>
+## Gerrit Web UI
+
+```sh
+http://localhost:8080
+```
+![image](https://user-images.githubusercontent.com/67073582/198943029-c28c4cfe-74a2-4168-9525-166d4e31a9fe.png)
+
 
 # References
 1. https://gerrit-review.googlesource.com/Documentation/linux-quickstart.html
