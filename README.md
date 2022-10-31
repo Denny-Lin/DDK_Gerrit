@@ -20,6 +20,15 @@ Download the "gerrit-x.x.x.war" from https://gerrit-releases.storage.googleapis.
 wget https://gerrit-releases.storage.googleapis.com/gerrit-3.6.2.war
 ```
 
+```sh
+sudo apt-get install openjdk-8-jdk
+```
+
+```sh
+export GERRIT_SITE=~/gerrit_testsite
+java -jar gerrit*.war init --batch --dev -d $GERRIT_SITE
+```
+
 ... </br>
 
 # References
