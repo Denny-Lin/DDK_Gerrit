@@ -33,6 +33,7 @@ sudo apt-get install openjdk-11-jdk
 export GERRIT_SITE=~/gerrit_installation_path
 java -jar gerrit*.war init --batch --dev -d $GERRIT_SITE
 ```
+![image](https://user-images.githubusercontent.com/67073582/198941114-3cf0bac2-1edf-4908-8251-f58d56261906.png)
 
 ... </br>
 
