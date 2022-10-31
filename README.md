@@ -23,7 +23,7 @@ Download the "gerrit-x.x.x.war" from https://gerrit-releases.storage.googleapis.
 wget https://gerrit-releases.storage.googleapis.com/gerrit-3.6.2.war
 ```
 
-## Instanl Gerrit
+## Install Gerrit
 For jdk issue, please refer to "http://blog.tonycube.com/2021/07/java-class-version.html".
 ```sh
 sudo apt-get install openjdk-11-jdk
