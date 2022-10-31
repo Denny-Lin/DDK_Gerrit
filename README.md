@@ -35,6 +35,15 @@ java -jar gerrit*.war init --batch --dev -d $GERRIT_SITE
 ```
 ![image](https://user-images.githubusercontent.com/67073582/198941114-3cf0bac2-1edf-4908-8251-f58d56261906.png)
 
+## Change * to localhost
+
+```sh
+cat $GERRIT_SITE/etc/gerrit.config
+git config --file $GERRIT_SITE/etc/gerrit.config httpd.listenUrl 'http://localhost:8080'
+$GERRIT_SITE/bin/gerrit.sh restart
+```
+![image](https://user-images.githubusercontent.com/67073582/198942637-c34bd40f-f6f6-49c1-91de-0fc0baf65fde.png)
+
 ... </br>
 
 # References
