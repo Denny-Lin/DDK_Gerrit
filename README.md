@@ -44,6 +44,10 @@ $GERRIT_SITE/bin/gerrit.sh restart
 ```
 ![image](https://user-images.githubusercontent.com/67073582/198942637-c34bd40f-f6f6-49c1-91de-0fc0baf65fde.png)
 
+```sh
+ps aux | grep gerrit
+```
+
 ## Gerrit Web UI
 
 ```sh
