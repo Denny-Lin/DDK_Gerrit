@@ -13,6 +13,9 @@ GitLab : Merge requests </br>
 
 # Let us get started
 
+## Environments
+Linux ubuntu 5.13.0-30-generic #33~20.04.1-Ubuntu SMP </br>
+
 ## Download Gerrit 
 Download the "gerrit-x.x.x.war" from https://gerrit-releases.storage.googleapis.com/index.html. </br>
 
